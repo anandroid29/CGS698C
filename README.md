@@ -1,1 +1,1 @@
-These assignments were done as a course requirement for the cours -- CGS698C (Bayesian Models and Data Analysis) by Prof. Himanshu Yadav in the 2025-26-II Semster at the Indian Institute of Technology Kanpur.
+These assignments were done as a course requirement for the course -- CGS698C (Bayesian Models and Data Analysis) by Prof. Himanshu Yadav in the 2025-26-II Semster at the Indian Institute of Technology Kanpur.
